@@ -21,7 +21,7 @@
     "magic-sdk": "^4.2.1",
     "mitt": "^2.1.0",
     "mousetrap": "^1.6.5",
-    "postcss": "^8.2.6",
+    "postcss": "^8.2.13",
     "ssf": "^0.11.2",
     "tailwindcss": "^2.1.0",
     "typed.js": "^2.0.11",
